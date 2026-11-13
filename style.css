@@ -40,7 +40,7 @@ ul {
 }
 button {
   color: var(--accent800);
-  background-color: var(--primary700);
+  background-color: var(--primary300);
 }
 button:hover {
   background-color: var(--accent800);
