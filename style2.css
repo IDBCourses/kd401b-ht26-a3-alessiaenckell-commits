@@ -39,7 +39,7 @@ ul {
   color: var(--accent300);
 }
 button {
-  color: var(--accent300);
+  color: var(--accent800);
   background-color: var(--primary500);
 }
 button:hover {
