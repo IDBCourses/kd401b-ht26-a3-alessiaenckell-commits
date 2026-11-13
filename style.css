@@ -1,0 +1,48 @@
+:root {
+  --primary800: #285c56;
+  --primary700: #388078;
+  --primary600: #47a399;
+  --primary500: #7fc7bf;
+  --primary300: #b8e0dc;
+
+  --accent800: #5c2944;
+  --accent700: #7f395e;
+  --accent600: #a24978;
+  --accent500: #c0729b;
+  --accent300: #d9abc3;
+
+  --neutral800: #4f4f4f;
+  --neutral700: #696969;
+  --neutral600: #9c9c9c;
+  --neutral500: #d9d9d9;
+  --neutral300: #f2f2f2;
+}
+
+p {
+  font-size: 20px;
+  color: var(--accent800);
+  font-weight: bold;
+}
+body {
+  background-color: var(--primary300);
+}
+h1 {
+  color: var(--primary800);
+}
+main {
+  color: var(--primary800);
+}
+a {
+  color: var(--accent800);
+}
+ul {
+  color: var(--accent800);
+}
+button {
+  color: var(--accent800);
+  background-color: var(--primary700);
+}
+button:hover {
+  background-color: var(--accent800);
+  color: var(--primary300);
+}
